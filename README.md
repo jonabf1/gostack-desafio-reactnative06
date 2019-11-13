@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
-    <img alt="rn" src="https://miro.medium.com/max/1200/1*KANHihva9OdXx2-V5EDn3g.png" />
+    <img alt="rn" src="https://miro.medium.com/max/1200/1*KANHihva9OdXx2-V5EDn3g.png" width="200px"/>
 </h1>
 
 <h3 align="center">
