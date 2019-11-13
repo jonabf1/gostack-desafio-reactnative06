@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
-    <img alt="rn" src="http://www.abolfazlm.com/image/react-native-logo.png"  width:"1%" height="1%" />
+    <img alt="rn" src="https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcThFzbVT9vuJj7b1LZbFBsQue6yaG8U4LrEg2fAr6T8KzivlYb4&s" />
 </h1>
 
 <h3 align="center">
