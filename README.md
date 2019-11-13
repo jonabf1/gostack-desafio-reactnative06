@@ -25,7 +25,7 @@ Tratar os usuários duplicados impedindo a continuação do fluxo de dados
 
 #### 3. Pull to Refresh
 
-Quando o usuário arrastar a listagem de repositórios favoritados pra cima, irá atualizar os repositórios
+Quando o usuário arrastar a listagem de repositórios favoritados pra cima, irá atualizar para a nova paginação de repositórios
 
 #### 4. WebView
 
