@@ -13,6 +13,10 @@
 
 Aplicar conhecimentos adquiridos até agora sobre React Native
 
+### Como instalar
+- yarn install (instalar dependência)
+- yarn react-native run-ios/android (gerar o bunddle e abrir o app automaticamente)
+
 ### Funcionalidades
 
 #### :rocket: 1. Loading de repositórios
