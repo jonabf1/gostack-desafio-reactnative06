@@ -19,7 +19,7 @@ Aplicar conhecimentos adquiridos até agora sobre React Native
 
 ### Funcionalidades
 
-#### :rocket: 1. Loading de repositórios
+#### 1. Loading de repositórios
 
 Indicador de carregamento quando busca usuário no Github
 
