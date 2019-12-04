@@ -4,7 +4,7 @@
 
 <h1 align="center">React Native</h1>
 
-## Sobre
+### :rocket: Sobre
 
 Aplicar conhecimentos adquiridos até agora sobre React Native
 
