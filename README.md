@@ -44,6 +44,6 @@ Cada reposítorio terá uma página que exibe um webview do repositório
 <hr/>
 
 <p align="center">
-Feito com ♥ by [Jonathan](https://www.linkedin.com/in/jonathan-barros-franco)
+Feito com ♥ by <a href="https://www.linkedin.com/in/jonathan-barros-franco">Jonathan</a>
 </p>
 
