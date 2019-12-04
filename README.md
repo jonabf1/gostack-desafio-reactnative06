@@ -2,6 +2,8 @@
     <img alt="rn" src="https://rocketseat.com.br/static/images/update/curso-react-native.svg" width="120px"/>
 </p>
 
+<h1 align="center">React Native</h1>
+
 ## Sobre
 
 Aplicar conhecimentos adquiridos até agora sobre React Native
