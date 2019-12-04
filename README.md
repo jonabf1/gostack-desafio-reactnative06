@@ -37,7 +37,9 @@ Cada reposítorio terá uma página que exibe um webview do repositório
 
 #### 4. Resultado final
 
-: ![Alt Text](assets/gifreactnative.gif) :
+<p align="center">
+![Alt Text](assets/gifreactnative.gif) 
+</p>
 
 <hr/>
 
