@@ -1,7 +1,7 @@
 # gostack-desafio-reactnative06
 
 <h1 align="center">
-    <img alt="rn" src="https://i0.wp.com/storage.googleapis.com/blog-images-backup/1*c1duI8rwtQygnJem9RyYUg.png?resize=700%2C235&ssl=1" width="180px"/>
+    <img alt="rn" src="https://i0.wp.com/storage.googleapis.com/blog-images-backup/1*c1duI8rwtQygnJem9RyYUg.png?resize=700%2C235&ssl=1" />
 </h1>
 
 <h3 align="center">
