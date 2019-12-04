@@ -1,7 +1,7 @@
 # gostack-desafio-reactnative06
 
 <h1 align="center">
-    <img alt="rn" src="https://i0.wp.com/storage.googleapis.com/blog-images-backup/1*c1duI8rwtQygnJem9RyYUg.png?resize=700%2C235&ssl=1" width="300px"/>
+    <img alt="rn" src="https://victortisnado.com/uploads/2018/02/react-native-cambia-polemica-licencia-a-mit.jpg" width="300px"/>
 </h1>
 
 <h3 align="center">
