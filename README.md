@@ -1,7 +1,7 @@
 # gostack-desafio-reactnative06
 
 <h1 align="center">
-    <img alt="rn" src="https://miro.medium.com/max/1024/1*xDi2csEAWxu95IEkaNdFUQ.png" width="300px"/>
+    <img alt="rn" src="https://rocketseat.com.br/static/images/update/curso-react-native.svg" width="300px"/>
 </h1>
 
 <h3 align="center">
