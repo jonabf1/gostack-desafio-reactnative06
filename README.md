@@ -1,9 +1,6 @@
 <p align="center">
     <img alt="rn" src="https://rocketseat.com.br/static/images/update/curso-react-native.svg" width="120px"/>
 </p>
-<p align="center">
-<img src="readme/logo.png" width="30%">
-</p>
 
 ## Sobre
 
