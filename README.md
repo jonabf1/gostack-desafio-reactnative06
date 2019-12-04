@@ -1,12 +1,6 @@
-# gostack-desafio-reactnative06
-
 <h1 align="center">
     <img alt="rn" src="https://rocketseat.com.br/static/images/update/curso-react-native.svg" width="120px"/>
 </h1>
-
-<h3 align="center">
-  Desafio 6: Primeiro projeto com React Native
-</h3>
 
 ## :rocket: Sobre o desafio
 
