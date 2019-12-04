@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
     <img alt="rn" src="https://rocketseat.com.br/static/images/update/curso-react-native.svg" width="120px"/>
-</h1>
+</p>
 
 ## :rocket: Sobre o desafio
 
