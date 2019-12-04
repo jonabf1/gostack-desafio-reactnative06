@@ -2,15 +2,15 @@
     <img alt="rn" src="https://rocketseat.com.br/static/images/update/curso-react-native.svg" width="120px"/>
 </p>
 
-## Sobre
+# Sobre
 
 Aplicar conhecimentos adquiridos até agora sobre React Native
 
-### Como instalar
+### :rocket: Como instalar
 - yarn install (instalar dependência)
 - yarn react-native run-ios/android (gerar o bunddle e abrir o app automaticamente)
 
-### Funcionalidades
+### :rocket: Funcionalidades
 
 #### 1. Loading de repositórios
 
@@ -28,7 +28,7 @@ Quando o usuário arrastar a listagem de repositórios favoritados pra cima, ir�
 
 Cada reposítorio terá uma página que exibe um webview do repositório
 
-#### 4. Resultado final
+### :rocket: 4. Resultado final
 
 <p align="center">
 <img src="assets/gifreactnative.gif" alt="gif"/>
