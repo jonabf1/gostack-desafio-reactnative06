@@ -12,6 +12,9 @@ Apply knowledge gained so far about React Native
 - yarn install (install all dependencies)
 - yarn react-native run-ios/android (generate bundle and open app automatically)
 
+## Frontend of this application
+- https://github.com/jonabf1/gostack-desafio-react05
+
 ### :rocket: Functionalities
 
 #### 1. Repository loading
