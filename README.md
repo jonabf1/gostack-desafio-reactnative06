@@ -4,21 +4,21 @@
 
 <h1 align="center">React Native</h1>
 
-### :rocket: Sobre
+### :rocket: About
 
-Aplicar conhecimentos adquiridos até agora sobre React Native
+Apply knowledge gained so far about React Native
 
-### :rocket: Como instalar
-- yarn install (instalar dependência)
-- yarn react-native run-ios/android (gerar o bunddle e abrir o app automaticamente)
+### :rocket: How install
+- yarn install (install all dependencies)
+- yarn react-native run-ios/android (generate bundle and open app automatically)
 
-### :rocket: Funcionalidades
+### :rocket: Functionalities
 
-#### 1. Loading de repositórios
+#### 1. Repository loading
 
 Indicador de carregamento quando busca usuário no Github
 
-#### 2. Usuário duplicado
+#### 2. Duplicate user
 
 Tratar os usuários duplicados impedindo a continuação do fluxo de dados
 
@@ -26,11 +26,11 @@ Tratar os usuários duplicados impedindo a continuação do fluxo de dados
 
 Quando o usuário arrastar a listagem de repositórios favoritados pra cima, irá atualizar para a nova paginação de repositórios
 
-#### 4. WebView
+#### 4. Web View
 
 Cada reposítorio terá uma página que exibe um webview do repositório
 
-### :rocket: 4. Resultado final
+### :rocket: 4. Final result
 
 <p align="center">
 <img src="assets/gifreactnative.gif" alt="gif"/>
@@ -39,6 +39,6 @@ Cada reposítorio terá uma página que exibe um webview do repositório
 <hr/>
 
 <p align="center">
-Feito com ♥ by <a href="https://www.linkedin.com/in/jonathan-barros-franco">Jonathan</a>
+Made with ♥ by <a href="https://www.linkedin.com/in/jonathan-barros-franco">Jonathan</a>
 </p>
 
