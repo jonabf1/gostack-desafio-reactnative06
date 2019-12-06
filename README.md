@@ -21,9 +21,9 @@ Apply knowledge gained so far about React Native
 
 Loading indicator when searching user on Github
 
-#### 2. Duplicate user
+#### 2. Duplicated user
 
-Treat duplicate users by preventing further data flow
+Treat duplicated users by preventing further data flow
 
 #### 3. Pull to Refresh
 
