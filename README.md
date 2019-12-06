@@ -16,19 +16,19 @@ Apply knowledge gained so far about React Native
 
 #### 1. Repository loading
 
-Indicador de carregamento quando busca usuário no Github
+Loading indicator when searching user on Github
 
 #### 2. Duplicate user
 
-Tratar os usuários duplicados impedindo a continuação do fluxo de dados
+Treat duplicate users by preventing further data flow
 
 #### 3. Pull to Refresh
 
-Quando o usuário arrastar a listagem de repositórios favoritados pra cima, irá atualizar para a nova paginação de repositórios
+When you drag up the favorite repository listing, you will upgrade to the new repository pagination
 
 #### 4. Web View
 
-Cada reposítorio terá uma página que exibe um webview do repositório
+Each repository will have a page displaying a repository webview
 
 ### :rocket: 4. Final result
 
